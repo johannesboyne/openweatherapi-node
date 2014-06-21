@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Calling the open weather API",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johannesboyne/openweatherapi-node.git"
+  },
   "scripts": {
     "test": "tap ./test"
   },
