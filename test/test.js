@@ -1,5 +1,5 @@
 var test = require('tap').test
-var openweatherapi = require('openweatherapi')
+var openweatherapi = require('../')
 
 test('first test', function (t) {
   openweatherapi.fetchWeather({lat: 5.9, lng: 7.5}).on('data', function (data) {

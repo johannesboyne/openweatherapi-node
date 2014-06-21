@@ -1,6 +1,6 @@
 {
   "name": "openweatherapi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calling the open weather API",
   "main": "index.js",
   "repository": {
